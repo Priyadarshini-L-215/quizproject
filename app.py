@@ -36,7 +36,8 @@ scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/au
 from dotenv import load_dotenv
 load_dotenv()
 
-creds_json_str = os.environ("GOOGLE_CREDS_FILE")
+creds_json_str = os.environ["GOOGLE_CREDS_FILE"]
+
 creds_dict = json.loads(creds_json_str)
 
 creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
@@ -221,4 +222,5 @@ def get_report_data():
     return jsonify(clean_data)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)

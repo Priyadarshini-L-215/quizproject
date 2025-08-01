@@ -1,0 +1,199 @@
+[
+  {
+    "question": "In which quadrant is the point (5, -3)?",
+    "answer": "Fourth"
+  },
+  {
+    "question": "In which quadrant is the point (-4, 6)?",
+    "answer": "Second"
+  },
+  {
+    "question": "Which axis represents the independent variable in a line graph?",
+    "answer": "X-axis"
+  },
+  {
+    "question": "Which axis represents the dependent variable in a line graph?",
+    "answer": "Y-axis"
+  },
+  {
+    "question": "What is the origin in a graph?",
+    "answer": "(0, 0)"
+  },
+  {
+    "question": "What type of graph is best for showing changes over time?",
+    "answer": "Line graph"
+  },
+  {
+    "question": "What type of graph is used to show parts of a whole?",
+    "answer": "Pie chart"
+  },
+  {
+    "question": "What type of graph compares quantities across categories?",
+    "answer": "Bar graph"
+  },
+  {
+    "question": "What does a steep line on a graph indicate?",
+    "answer": "Rapid change"
+  },
+  {
+    "question": "What does a flat horizontal line on a distance-time graph represent?",
+    "answer": "No movement"
+  },
+  {
+    "question": "What does a rising line on a distance-time graph show?",
+    "answer": "Increasing distance"
+  },
+  {
+    "question": "What does a falling line on a temperature-time graph indicate?",
+    "answer": "Decreasing temperature"
+  },
+  {
+    "question": "What is plotted on the x-axis in a distance-time graph?",
+    "answer": "Time"
+  },
+  {
+    "question": "What is plotted on the y-axis in a distance-time graph?",
+    "answer": "Distance"
+  },
+  {
+    "question": "What does a bar graph represent?",
+    "answer": "Comparison of categories"
+  },
+  {
+    "question": "In a coordinate plane, which quadrant contains points with both x and y positive?",
+    "answer": "First"
+  },
+  {
+    "question": "In which quadrant is the point (-3, -7)?",
+    "answer": "Third"
+  },
+  {
+    "question": "Which graph is best to show trends over time?",
+    "answer": "Line graph"
+  },
+  {
+    "question": "Which graph type is circular and shows proportions?",
+    "answer": "Pie chart"
+  },
+  {
+    "question": "Which axis is horizontal in a Cartesian plane?",
+    "answer": "X-axis"
+  },
+  {
+    "question": "Which axis is vertical in a Cartesian plane?",
+    "answer": "Y-axis"
+  },
+  {
+    "question": "What is the intersection of the x and y axes called?",
+    "answer": "Origin"
+  },
+  {
+    "question": "How many quadrants are there in a Cartesian plane?",
+    "answer": "Four"
+  },
+  {
+    "question": "Which graph shows frequency of data using bars?",
+    "answer": "Histogram"
+  },
+  {
+    "question": "What is the slope of a horizontal line?",
+    "answer": "Zero"
+  },
+  {
+    "question": "What is the slope of a vertical line?",
+    "answer": "Undefined"
+  },
+  {
+    "question": "Which graph best displays relationships between two variables?",
+    "answer": "Scatter plot"
+  },
+  {
+    "question": "What is a point where a graph crosses the x-axis called?",
+    "answer": "X-intercept"
+  },
+  {
+    "question": "What is a point where a graph crosses the y-axis called?",
+    "answer": "Y-intercept"
+  },
+  {
+    "question": "Which graph shows data using dots and lines to connect?",
+    "answer": "Line graph"
+  },
+  {
+    "question": "What is the term for how steep a line is on a graph?",
+    "answer": "Slope"
+  },
+  {
+    "question": "What kind of graph would best show student attendance over a month?",
+    "answer": "Line graph"
+  },
+  {
+    "question": "Which graph type is best to compare favorite colors of students?",
+    "answer": "Bar graph"
+  },
+  {
+    "question": "Which quadrant is point (-5, 2) located in?",
+    "answer": "Second"
+  },
+  {
+    "question": "Which quadrant is point (4, -3) located in?",
+    "answer": "Fourth"
+  },
+  {
+    "question": "Which type of graph shows data grouped in intervals?",
+    "answer": "Histogram"
+  },
+  {
+    "question": "What kind of line shows constant speed on a distance-time graph?",
+    "answer": "Straight diagonal line"
+  },
+  {
+    "question": "In a graph, what does the area under the curve often represent?",
+    "answer": "Total value or accumulation"
+  },
+  {
+    "question": "What is the general shape of a parabolic graph?",
+    "answer": "U-shape"
+  },
+  {
+    "question": "Which graph would be best to display how grades are distributed?",
+    "answer": "Histogram"
+  },
+  {
+    "question": "What kind of graph is used to predict trends?",
+    "answer": "Line graph"
+  },
+  {
+    "question": "Which type of graph uses dots to show individual data points?",
+    "answer": "Scatter plot"
+  },
+  {
+    "question": "What is a line graph with a sudden spike called?",
+    "answer": "Discontinuous or sharp increase"
+  },
+  {
+    "question": "What is the term for highest point on a graph?",
+    "answer": "Peak or maximum"
+  },
+  {
+    "question": "What is the term for lowest point on a graph?",
+    "answer": "Trough or minimum"
+  },
+  {
+    "question": "What does a curve bending upward on a line graph show?",
+    "answer": "Accelerating increase"
+  },
+  {
+    "question": "What does a curve bending downward show?",
+    "answer": "Decelerating increase or decrease"
+  },
+  {
+    "question": "What is a linear graph?",
+    "answer": "A graph with a straight line"
+  },
+  {
+    "question": "Which graph shows the relationship between two sets of numbers?",
+    "answer": "Cartesian graph"
+  }
+]
+

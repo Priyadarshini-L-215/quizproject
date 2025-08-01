@@ -8,6 +8,10 @@ __pycache__/
 
 # Credentials
 *.json
+!questions/algebra.json
+!questions/arithmetic.json
+!questions/graphs.json
+!questions/patterns.json
 
 # VSCode or PyCharm
 .vscode/
