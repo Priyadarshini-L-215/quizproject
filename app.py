@@ -36,7 +36,7 @@ scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/au
 from dotenv import load_dotenv
 load_dotenv()
 
-creds_json_str = os.getenv("GOOGLE_CREDS_FILE")
+creds_json_str = os.environ("GOOGLE_CREDS_FILE")
 creds_dict = json.loads(creds_json_str)
 
 creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
