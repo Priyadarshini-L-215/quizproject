@@ -36,8 +36,10 @@ scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/au
 from dotenv import load_dotenv
 load_dotenv()
 
-creds_path = os.getenv("GOOGLE_CREDS_FILE")
-creds = ServiceAccountCredentials.from_json_keyfile_name(creds_path, scope)
+creds_json_str = os.getenv("GOOGLE_CREDS_FILE")
+creds_dict = json.loads(creds_json_str)
+
+creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
 
 client = gspread.authorize(creds)
 sheet = client.open("matheval").sheet1
